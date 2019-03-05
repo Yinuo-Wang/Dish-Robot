@@ -1,0 +1,19 @@
+DrinkDishes.txt
+l¨¸ch¨¢
+4
+18
+h¨®ngch¨¢
+4
+20
+m¨°l¨¬hu¨¡ ch¨¢
+5
+21
+k¨§l¨¨
+3
+29
+k¨¡f¨¥i
+8
+9
+ch¨¦ngzh¨©
+6
+18
